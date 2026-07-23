@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "request": "launch",
+            "type": "javadbg",
+            "name": "CaptchaApplication",
+            "__internal_id": "d2374f85-54c9-4397-b89a-9c74371188ce",
+            "__internal_used": 1784705379958,
+            "temporary": true,
+            "verbose": false,
+            "allowMany": false,
+            "mainClass": {
+                "name": "com.example.captcha.CaptchaApplication",
+                "sourcePath": "${workspaceFolder}/src/main/java/com/example/captcha/CaptchaApplication.java",
+                "shell": "internal-console",
+                "skipBuild": false
+            }
+        }
+    ]
+}

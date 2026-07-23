@@ -1,0 +1,6 @@
+{
+    "clawMode.mode": "editor",
+    "debug.internalConsoleOptions": "neverOpen",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

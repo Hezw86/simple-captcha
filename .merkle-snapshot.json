@@ -1,0 +1,94 @@
+{
+  "rootHash": "80b9078225019c68ec879929c2825770860b7b0c0086992b617a0f73fda563fa",
+  "timestamp": 1784693085799,
+  "fileCount": 5,
+  "files": [
+    {
+      "path": "src\\main\\java\\com\\example\\captcha\\CaptchaApplication.java",
+      "hash": "8f588a9e46b16895bc4c2a35c4aa17c76b410b791a12706612ee0d23dbf8edbe",
+      "size": 397,
+      "modified": 1784692598553.471
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\captcha\\util\\CaptchaGenerator.java",
+      "hash": "c34e5ced7f19d7bc5dc521268beff7cfd97fb8b580dceb110d0a85d617c9e021",
+      "size": 2480,
+      "modified": 1784691229632.551
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\captcha\\service\\CaptchaService.java",
+      "hash": "b9aeca748ebc0acc1d6995b746a04888ebdf609d49d683b128c0b404650acffa",
+      "size": 2440,
+      "modified": 1784692601392.616
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\captcha\\dto\\CaptchaResult.java",
+      "hash": "24a5ab300d53ffe4e49ded2a2b3003bc439d32950d0e986d0651501b8550fc54",
+      "size": 1005,
+      "modified": 1784692600615.0935
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\captcha\\controller\\CaptchaController.java",
+      "hash": "12f1d2bf3be608aa29136286863e83b3254397568a9a721e56c76922b43c78ce",
+      "size": 1542,
+      "modified": 1784691229631.544
+    }
+  ],
+  "tree": {
+    "hash": "80b9078225019c68ec879929c2825770860b7b0c0086992b617a0f73fda563fa",
+    "left": {
+      "hash": "8ec75f8ec711de3b4b3b066f841db0b319f556a6ae87e4450745a8216a4b7250",
+      "left": {
+        "hash": "296eecedf60c3ad81ff39744e5f869d50f0a0be06c06d4b3a468f751521805c4",
+        "left": {
+          "hash": "8f588a9e46b16895bc4c2a35c4aa17c76b410b791a12706612ee0d23dbf8edbe",
+          "file": {
+            "path": "src\\main\\java\\com\\example\\captcha\\CaptchaApplication.java",
+            "hash": "8f588a9e46b16895bc4c2a35c4aa17c76b410b791a12706612ee0d23dbf8edbe",
+            "size": 397,
+            "modified": 1784692598553.471
+          }
+        },
+        "right": {
+          "hash": "12f1d2bf3be608aa29136286863e83b3254397568a9a721e56c76922b43c78ce",
+          "file": {
+            "path": "src\\main\\java\\com\\example\\captcha\\controller\\CaptchaController.java",
+            "hash": "12f1d2bf3be608aa29136286863e83b3254397568a9a721e56c76922b43c78ce",
+            "size": 1542,
+            "modified": 1784691229631.544
+          }
+        }
+      },
+      "right": {
+        "hash": "889afedbd2f6a3dca61708bb9608565ff1a96675845420fb9679d398ee9089d3",
+        "left": {
+          "hash": "24a5ab300d53ffe4e49ded2a2b3003bc439d32950d0e986d0651501b8550fc54",
+          "file": {
+            "path": "src\\main\\java\\com\\example\\captcha\\dto\\CaptchaResult.java",
+            "hash": "24a5ab300d53ffe4e49ded2a2b3003bc439d32950d0e986d0651501b8550fc54",
+            "size": 1005,
+            "modified": 1784692600615.0935
+          }
+        },
+        "right": {
+          "hash": "b9aeca748ebc0acc1d6995b746a04888ebdf609d49d683b128c0b404650acffa",
+          "file": {
+            "path": "src\\main\\java\\com\\example\\captcha\\service\\CaptchaService.java",
+            "hash": "b9aeca748ebc0acc1d6995b746a04888ebdf609d49d683b128c0b404650acffa",
+            "size": 2440,
+            "modified": 1784692601392.616
+          }
+        }
+      }
+    },
+    "right": {
+      "hash": "c34e5ced7f19d7bc5dc521268beff7cfd97fb8b580dceb110d0a85d617c9e021",
+      "file": {
+        "path": "src\\main\\java\\com\\example\\captcha\\util\\CaptchaGenerator.java",
+        "hash": "c34e5ced7f19d7bc5dc521268beff7cfd97fb8b580dceb110d0a85d617c9e021",
+        "size": 2480,
+        "modified": 1784691229632.551
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+server:
+  port: 5888
+
+spring:
+  application:
+    name: simple-captcha-generator
